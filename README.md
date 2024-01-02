@@ -46,7 +46,7 @@ This project is an attempt to help real estate investors make informed decisions
   4). Investors should be mindful of features with a negative impact on house prices such as lower-grade classifications ("Average") and smaller square footage above ground(log_sqft_above).
   
  
-**For more information**
+**For more information** 
 
 - Kindly check the Jupyter Notebook or review the presentation for more information about the project.
   
